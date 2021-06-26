@@ -1,0 +1,31 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 22:14 CEST
+Nmap scan report for 10.11.1.227
+Host is up (0.12s latency).
+Not shown: 989 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+25/tcp   open  smtp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1028/tcp open  unknown
+3372/tcp open  msdtc
+5800/tcp open  vnc-http
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.91%E=4%D=6/19%OT=21%CT=1%CU=34504%PV=Y%DS=2%DC=I%G=Y%TM=60CE503
+OS:8%P=x86_64-pc-linux-gnu)SEQ(SP=103%GCD=2%ISR=109%TI=I%II=I%SS=S%TS=0)OPS
+OS:(O1=M54DNW0NNT00NNS%O2=M54DNW0NNT00NNS%O3=M54DNW0NNT00%O4=M54DNW0NNT00NN
+OS:S%O5=M54DNW0NNT00NNS%O6=M54DNNT00NNS)WIN(W1=FAF0%W2=FAF0%W3=FAF0%W4=FAF0
+OS:%W5=FAF0%W6=FAF0)ECN(R=Y%DF=Y%T=80%W=FAF0%O=M54DNW0NNS%CC=N%Q=)T1(R=Y%DF
+OS:=Y%T=80%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=N)T5(R=Y%DF=N%T=80%W=0%
+OS:S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=N)T7(R=N)U1(R=Y%DF=N%T=80%IPL=38%UN=0%RIPL
+OS:=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=S%T=80%CD=Z)
+
+Network Distance: 2 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 32.19 seconds

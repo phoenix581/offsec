@@ -1,0 +1,16 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 22:10 CEST
+Nmap scan report for 10.11.1.141
+Host is up (0.12s latency).
+Not shown: 997 closed ports
+PORT      STATE SERVICE
+22/tcp    open  ssh
+111/tcp   open  rpcbind
+10000/tcp open  snet-sensor-mgmt
+Device type: general purpose|firewall|proxy server|WAP|printer|PBX|media device
+Running (JUST GUESSING): Linux 2.6.X (94%), Cisco embedded (93%), Riverbed embedded (92%), Ruckus embedded (91%), Kyocera embedded (90%), Sony embedded (89%), FreeBSD 6.X (89%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.9 cpe:/o:linux:linux_kernel:2.6 cpe:/h:cisco:sa520 cpe:/h:riverbed:steelhead_200 cpe:/h:ruckus:7363 cpe:/h:kyocera:cs-2560 cpe:/h:cisco:uc320w cpe:/o:freebsd:freebsd:6.2
+Aggressive OS guesses: Linux 2.6.9 (94%), Cisco SA520 firewall (Linux 2.6) (93%), Linux 2.6.18 (93%), Linux 2.6.9 - 2.6.27 (93%), Linux 2.6.11 (92%), Linux 2.6.28 (92%), Linux 2.6.30 (92%), Riverbed Steelhead 200 proxy server (92%), Ruckus 7363 WAP (91%), Linux 2.6.32 (90%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 26.12 seconds

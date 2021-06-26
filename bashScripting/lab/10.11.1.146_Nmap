@@ -1,0 +1,17 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 22:10 CEST
+Nmap scan report for 10.11.1.146
+Host is up (0.13s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|WAP|router|storage-misc
+Running (JUST GUESSING): Linux 3.X|4.X|2.4.X (89%), MikroTik RouterOS 6.X (88%), HP embedded (87%), OpenBSD 4.X (86%), FreeBSD 6.X (86%)
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:mikrotik:routeros:6.15 cpe:/h:hp:p2000_g3 cpe:/o:openbsd:openbsd:4.0 cpe:/o:freebsd:freebsd:6.2
+Aggressive OS guesses: Linux 3.10 - 3.12 (89%), Linux 3.11 - 4.1 (89%), Linux 3.16 (89%), Linux 4.4 (89%), Linux 4.9 (89%), Tomato 1.27 - 1.28 (Linux 2.4.20) (88%), Linux 3.2.0 (88%), MikroTik RouterOS 6.15 (Linux 3.3.5) (88%), HP P2000 G3 NAS device (87%), OpenBSD 4.0 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.60 seconds

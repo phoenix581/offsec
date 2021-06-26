@@ -1,0 +1,16 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 22:17 CEST
+Nmap scan report for 10.11.1.252
+Host is up (0.13s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+8000/tcp open  http-alt
+8888/tcp open  sun-answerbook
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: firewall|general purpose|WAP|proxy server|PBX|printer|media device
+Running (JUST GUESSING): Linux 2.6.X (91%), Cisco embedded (91%), Ruckus embedded (91%), Riverbed embedded (89%), ZoneAlarm embedded (89%), Kyocera embedded (87%), Sony embedded (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/h:cisco:sa520 cpe:/o:linux:linux_kernel:2.6.28 cpe:/h:ruckus:7363 cpe:/h:riverbed:steelhead_200 cpe:/h:zonealarm:z100g cpe:/h:cisco:uc320w cpe:/h:kyocera:cs-2560
+Aggressive OS guesses: Cisco SA520 firewall (Linux 2.6) (91%), Linux 2.6.28 (91%), Linux 2.6.30 (91%), Linux 2.6.9 (CentOS 4.4) (91%), Linux 2.6.9 - 2.6.27 (91%), Ruckus 7363 WAP (91%), Riverbed Steelhead 200 proxy server (89%), ZoneAlarm Z100G WAP (89%), Linux 2.6.9 (89%), Linux 2.6.11 (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.41 seconds

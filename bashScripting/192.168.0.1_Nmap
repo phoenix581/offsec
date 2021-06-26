@@ -1,0 +1,16 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 15:59 CEST
+Nmap scan report for 192.168.0.1
+Host is up (0.014s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+5000/tcp open  upnp
+Device type: general purpose
+Running: Linux 4.X
+OS CPE: cpe:/o:linux:linux_kernel:4.4
+OS details: Linux 4.4
+Network Distance: 3 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 42.05 seconds

@@ -1,0 +1,15 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 16:25 CEST
+Nmap scan report for 192.168.100.247
+Host is up (0.021s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+7000/tcp open  afs3-fileserver
+9080/tcp open  glrpc
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.4.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.4.37 cpe:/o:linux:linux_kernel:3.2
+OS details: DD-WRT v24-sp2 (Linux 2.4.37), Linux 3.2
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.94 seconds

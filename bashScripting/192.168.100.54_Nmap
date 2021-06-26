@@ -1,0 +1,11 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 16:23 CEST
+Nmap scan report for 192.168.100.54
+Host is up (0.040s latency).
+All 1000 scanned ports on 192.168.100.54 are closed
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Denon AVR-2113 audio receiver (92%), Actiontec MI424WR-GEN3I WAP (92%), Allied Telesyn AT-9448Ts/XP switch (92%), EtherWerX PT-1000 PPPoE terminator (92%), HP ProCurve 5406zl switch (92%), NetBSD 4.99.49 (x86) (92%), Nokia E65 mobile phone (Symbian OS) (92%), Ricoh Aficio MP C6000 or GX3050N printer (92%), Ricoh Aficio SP C420DN printer (92%), Siemens SpeedStream 4200 ADSL modem (92%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 16.08 seconds

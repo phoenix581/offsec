@@ -1,0 +1,301 @@
+Nmap scan report for 10.11.1.5
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+Nmap scan report for 10.11.1.8
+21/tcp   open   ftp
+22/tcp   open   ssh
+25/tcp   closed smtp
+80/tcp   open   http
+111/tcp  open   rpcbind
+139/tcp  open   netbios-ssn
+443/tcp  open   https
+445/tcp  open   microsoft-ds
+631/tcp  open   ipp
+3306/tcp open   mysql
+Nmap scan report for 10.11.1.13
+21/tcp    open  ftp
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+1433/tcp  open  ms-sql-s
+3389/tcp  open  ms-wbt-server
+5800/tcp  open  vnc-http
+5900/tcp  open  vnc
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49156/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+Nmap scan report for 10.11.1.14
+21/tcp  open   ftp
+23/tcp  closed telnet
+25/tcp  closed smtp
+80/tcp  open   http
+110/tcp closed pop3
+443/tcp open   https
+Nmap scan report for 10.11.1.20
+53/tcp   open  domain
+88/tcp   open  kerberos-sec
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+389/tcp  open  ldap
+445/tcp  open  microsoft-ds
+464/tcp  open  kpasswd5
+593/tcp  open  http-rpc-epmap
+636/tcp  open  ldapssl
+3268/tcp open  globalcatLDAP
+3269/tcp open  globalcatLDAPssl
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.21
+21/tcp   open  ftp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.22
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.24
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.31
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1433/tcp open  ms-sql-s
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.35
+22/tcp open  ssh
+80/tcp open  http
+Nmap scan report for 10.11.1.39
+22/tcp   open  ssh
+80/tcp   open  http
+3306/tcp open  mysql
+Nmap scan report for 10.11.1.44
+22/tcp   open  ssh
+8000/tcp open  http-alt
+Nmap scan report for 10.11.1.50
+80/tcp  open  http
+135/tcp open  msrpc
+Nmap scan report for 10.11.1.71
+22/tcp open  ssh
+80/tcp open  http
+Nmap scan report for 10.11.1.72
+22/tcp   open  ssh
+25/tcp   open  smtp
+80/tcp   open  http
+110/tcp  open  pop3
+111/tcp  open  rpcbind
+119/tcp  open  nntp
+2049/tcp open  nfs
+Nmap scan report for 10.11.1.73
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+1100/tcp  open  mctp
+2869/tcp  open  icslap
+3306/tcp  open  mysql
+5357/tcp  open  wsdapi
+5800/tcp  open  vnc-http
+5900/tcp  open  vnc
+8080/tcp  open  http-proxy
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49156/tcp open  unknown
+49157/tcp open  unknown
+Nmap scan report for 10.11.1.79
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.101
+21/tcp  open     ftp
+22/tcp  open     ssh
+25/tcp  filtered smtp
+80/tcp  open     http
+139/tcp open     netbios-ssn
+445/tcp open     microsoft-ds
+Nmap scan report for 10.11.1.111
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1433/tcp open  ms-sql-s
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.115
+21/tcp    open  ftp
+22/tcp    open  ssh
+25/tcp    open  smtp
+111/tcp   open  rpcbind
+139/tcp   open  netbios-ssn
+143/tcp   open  imap
+199/tcp   open  smux
+3306/tcp  open  mysql
+32768/tcp open  filenet-tms
+Nmap scan report for 10.11.1.116
+21/tcp  open  ftp
+22/tcp  open  ssh
+80/tcp  open  http
+110/tcp open  pop3
+143/tcp open  imap
+Nmap scan report for 10.11.1.120
+53/tcp   open  domain
+88/tcp   open  kerberos-sec
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+389/tcp  open  ldap
+445/tcp  open  microsoft-ds
+464/tcp  open  kpasswd5
+593/tcp  open  http-rpc-epmap
+636/tcp  open  ldapssl
+3268/tcp open  globalcatLDAP
+3269/tcp open  globalcatLDAPssl
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.121
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.122
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.123
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.128
+21/tcp    open  ftp
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+1433/tcp  open  ms-sql-s
+3389/tcp  open  ms-wbt-server
+5800/tcp  open  vnc-http
+5900/tcp  open  vnc
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49156/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+Nmap scan report for 10.11.1.133
+80/tcp open  http
+Nmap scan report for 10.11.1.136
+22/tcp  open  ssh
+113/tcp open  ident
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+Nmap scan report for 10.11.1.141
+22/tcp    open  ssh
+111/tcp   open  rpcbind
+10000/tcp open  snet-sensor-mgmt
+Nmap scan report for 10.11.1.146
+22/tcp  open  ssh
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+Nmap scan report for 10.11.1.217
+22/tcp   open  ssh
+25/tcp   open  smtp
+80/tcp   open  http
+110/tcp  open  pop3
+111/tcp  open  rpcbind
+143/tcp  open  imap
+443/tcp  open  https
+993/tcp  open  imaps
+995/tcp  open  pop3s
+3306/tcp open  mysql
+4445/tcp open  upnotifyp
+Nmap scan report for 10.11.1.220
+21/tcp    open  ftp
+53/tcp    open  domain
+88/tcp    open  kerberos-sec
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+389/tcp   open  ldap
+445/tcp   open  microsoft-ds
+464/tcp   open  kpasswd5
+593/tcp   open  http-rpc-epmap
+636/tcp   open  ldapssl
+3268/tcp  open  globalcatLDAP
+3269/tcp  open  globalcatLDAPssl
+3389/tcp  open  ms-wbt-server
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49161/tcp open  unknown
+Nmap scan report for 10.11.1.221
+135/tcp  open  msrpc
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.222
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1521/tcp open  oracle
+2030/tcp open  device2
+3389/tcp open  ms-wbt-server
+8009/tcp open  ajp13
+8080/tcp open  http-proxy
+Nmap scan report for 10.11.1.223
+21/tcp   open  ftp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+Nmap scan report for 10.11.1.227
+21/tcp   open  ftp
+25/tcp   open  smtp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1028/tcp open  unknown
+3372/tcp open  msdtc
+5800/tcp open  vnc-http
+Nmap scan report for 10.11.1.231
+22/tcp  open  ssh
+25/tcp  open  smtp
+111/tcp open  rpcbind
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+Nmap scan report for 10.11.1.234
+22/tcp open  ssh
+80/tcp open  http
+Nmap scan report for 10.11.1.237
+22/tcp  open  ssh
+80/tcp  open  http
+111/tcp open  rpcbind
+443/tcp open  https
+Nmap scan report for 10.11.1.250
+22/tcp open  ssh
+80/tcp open  http
+Nmap scan report for 10.11.1.251
+20/tcp    closed ftp-data
+21/tcp    open   ftp
+22/tcp    open   ssh
+80/tcp    open   http
+10180/tcp closed unknown
+Nmap scan report for 10.11.1.252
+8000/tcp open  http-alt
+8888/tcp open  sun-answerbook

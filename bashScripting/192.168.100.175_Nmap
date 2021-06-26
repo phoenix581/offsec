@@ -1,0 +1,18 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 16:25 CEST
+Nmap scan report for 192.168.100.175
+Host is up (0.011s latency).
+Not shown: 995 closed ports
+PORT      STATE SERVICE
+8008/tcp  open  http
+8009/tcp  open  ajp13
+8443/tcp  open  https-alt
+9000/tcp  open  cslistener
+10001/tcp open  scp-config
+Device type: general purpose
+Running: Linux 3.X
+OS CPE: cpe:/o:linux:linux_kernel:3.2
+OS details: Linux 3.2
+Network Distance: 2 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 4.47 seconds

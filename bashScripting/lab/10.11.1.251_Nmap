@@ -1,0 +1,15 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 22:16 CEST
+Nmap scan report for 10.11.1.251
+Host is up (0.12s latency).
+Not shown: 995 filtered ports
+PORT      STATE  SERVICE
+20/tcp    closed ftp-data
+21/tcp    open   ftp
+22/tcp    open   ssh
+80/tcp    open   http
+10180/tcp closed unknown
+Aggressive OS guesses: Linux 4.4 (93%), Linux 3.10 - 3.12 (92%), Linux 4.9 (91%), Linux 4.0 (89%), Linux 3.10 - 3.16 (88%), Linux 3.11 - 4.1 (88%), Linux 2.6.32 (88%), Linux 3.5 (88%), Linux 4.2 (88%), Synology DiskStation Manager 5.1 (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 21.67 seconds

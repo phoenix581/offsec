@@ -1,0 +1,16 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-19 22:16 CEST
+Nmap scan report for 10.11.1.250
+Host is up (0.12s latency).
+Not shown: 998 filtered ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running (JUST GUESSING): Linux 3.X|4.X (91%)
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+Aggressive OS guesses: Linux 3.11 - 4.1 (91%), Linux 3.16 (91%), Linux 3.2.0 (90%), Linux 4.4 (89%), Linux 3.13 (88%), Linux 3.10 - 3.16 (86%), Linux 3.10 - 4.11 (85%), Linux 3.13 or 4.2 (85%), Linux 3.16 - 4.6 (85%), Linux 3.2 - 4.9 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 18.29 seconds
